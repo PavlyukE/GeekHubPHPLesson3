@@ -1,0 +1,11 @@
+{
+    "name": "root/lesson3",
+    "description": "homework OOP",
+    "authors": [
+        {
+            "name": "sentiq22",
+            "email": "sentiq22@gmail.com"
+        }
+    ],
+    "require": {}
+}
