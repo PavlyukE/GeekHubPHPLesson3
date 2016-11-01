@@ -8,6 +8,7 @@ class Chair extends AbstractFurniture implements FurnitureInterface
     {
         // some operations with sizes
         $quantity = 3;
+
         return $quantity;
-    }    
+    }
 }

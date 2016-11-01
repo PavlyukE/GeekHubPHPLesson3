@@ -8,7 +8,7 @@ abstract class AbstractFurniture
      * @var array
      */
     private $sizes;
-    
+
     /**
      * @var string
      */
@@ -20,7 +20,7 @@ abstract class AbstractFurniture
     private $material;
 
     /**
-     * @param array $sizes
+     * @param array  $sizes
      * @param string $color
      * @param string $material
      */
