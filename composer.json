@@ -7,5 +7,10 @@
             "email": "sentiq22@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Vendor\\FurnitureCalculator\\": "src"
+        }
+    },
     "require": {}
 }
